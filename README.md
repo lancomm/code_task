@@ -1,3 +1,17 @@
+You will need to create a database 
+itrm_test 
+
+then run the migrations. 
+
+CLI
+/root_path/ php index.php migrate migrate
+
+then navigate to http://<host>/code_task/index.php/admin/login
+
+William I have added some test 
+
+
+
 # Technical Challenge - Code task example
 
 ## Scenario
